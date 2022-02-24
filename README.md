@@ -1,4 +1,4 @@
-# Upgradable NFT Project for Velvet
+# Upgradable ERC-721 contract for Velvet statement
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
